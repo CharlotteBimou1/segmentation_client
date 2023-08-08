@@ -9,7 +9,7 @@ st.image(logo_image, width=150)
 # Perform query.
 # Utiliser la balise HTML <div> avec le style CSS pour justifier le texte
 st.header('Segmentation de la clientèle par K-Means (Algorithme de Machine Learning non supervisé)')
-st.write("Objectif de l'application : permettre aux équipes opérationnelles et techniques "
+st.write("**Objectif de l'application** : permettre aux équipes opérationnelles et techniques "
          "de diviser leur base de clients, tant les clients existants que les nouveaux, afin de leur "
          "offrir de nouvelles prestations et d'entreprendre des efforts de prospection auprès de nouveaux "
          "clients potentiels.")
